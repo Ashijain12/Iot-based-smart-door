@@ -1,0 +1,13 @@
+"Requirements"
+-Install the "Arduino IDE"
+It is an IDE for working with devices like Arduino and NodeMCU, you can upload the code to your device from here.
+-Install Libraries
+"NodeMCU"
+<ESP8266WiFi.h>
+<BlynkSimpleEsp8266.h>
+"Arduino UNO"
+<Keypad.h>
+<Wire.h>
+<LiquidCrystal_I2C.h>
+<Servo.h>
+<SoftwareSerial.h>
